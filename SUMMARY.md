@@ -7,6 +7,6 @@
    * [redis](store/redis.md)
    * [redis-windows](store/redis-windows.md)
 * [3. Web 工具](webtools.md)
-* [4. 规范](rulemd.md)
+* [4. 规范](rule.md)
    * [版本管理](rule/version.md)
 
