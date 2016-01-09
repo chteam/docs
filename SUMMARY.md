@@ -5,5 +5,6 @@
    * [CentOS](server/centos.md)
 * [2. 存储](store.md)
    * [redis](store/redis.md)
+   * redis-windows
 * [3. Web 工具](webtools.md)
 
