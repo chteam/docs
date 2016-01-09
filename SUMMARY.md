@@ -5,6 +5,5 @@
    * [CentOS](server/centos.md)
 * [2. 存储](store.md)
    * [redis](store/redis.md)
-* [redis](server/redis.md)
 * [3. Web 工具](webtools.md)
 
