@@ -3,7 +3,7 @@
 * [概述](README.md)
 * [1. 服务器](server/index.md)
    * [CentOS](server/centos.md)
-* [2. 存储](store.md)
+* [2. 存储](store/index.md)
    * [redis](store/redis.md)
    * [redis-windows](store/redis-windows.md)
 * [3. Web 工具](webtools/index.md)
