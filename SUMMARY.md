@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Server
+* [1. 服务器](Server)
    * CentOS
 
