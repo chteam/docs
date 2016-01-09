@@ -6,7 +6,7 @@
 * [2. 存储](store.md)
    * [redis](store/redis.md)
    * [redis-windows](store/redis-windows.md)
-* [3. Web 工具](webtools.md)
+* [3. Web 工具](webtools/index.md)
 * [4. 规范](rule/index.md)
    * [版本管理](rule/version.md)
 
